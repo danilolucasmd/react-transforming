@@ -1,0 +1,44 @@
+{
+  "name": "react-transforming",
+  "version": "1.0.7",
+  "description": "Make your components resizable and draggable",
+  "main": "build/index.js",
+  "scripts": {
+    "build": "babel lib -d build",
+    "lint": "eslint lib/**; exit 0",
+    "lint:watch": "esw -w lib/**",
+    "prepublish": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danilolucasmd/react-transforming.git"
+  },
+  "author": "danilolucasmd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danilolucasmd/react-transforming/issues"
+  },
+  "homepage": "https://github.com/danilolucasmd/react-transforming#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-eslint": "^8.2.3",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "eslint": "^4.19.1",
+    "eslint-plugin-import": "^2.12.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-react": "^7.9.1",
+    "eslint-watch": "^3.1.5",
+    "prop-types": "^15.6.1",
+    "react": "^16.4.0",
+    "rxjs": "6.3.0"
+  },
+  "keywords": [
+    "dnd",
+    "resize",
+    "drag",
+    "transform",
+    "react-transforming"
+  ]
+}
