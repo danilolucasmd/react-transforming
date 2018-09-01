@@ -1,6 +1,6 @@
 {
   "name": "react-transforming",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Make your components resizable and draggable",
   "main": "build/index.js",
   "scripts": {
