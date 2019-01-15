@@ -1,8 +1,8 @@
 # React Transforming
 
-See [Demo](https://danilolucasmd.github.io/react-transforming)
+See [Demo](https://danilolucasmd.github.io/react-transforming-example)
 
-See [Example](https://github.com/danilolucasmd/react-transforming)
+See [Example](https://github.com/danilolucasmd/react-transforming-example)
 
 See [API.md](https://github.com/danilolucasmd/react-transforming/blob/master/API.md) for details
 
