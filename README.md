@@ -124,4 +124,4 @@ export default class App extends PureComponent {
 ```
 You could pass the whole state to both default props in the Draggable and Resizable components, but we encourage to pass just the necessary to avoid unexpected side effects. 
 
-#### If you're missing some feature, or want to suggest some improvement, you can report an issue or create a pull request, I will be happy to look.
+#### If you're missing some feature, or want to suggest some improvement, you can report an issue or create a pull request, I'll be happy to take a look 😎.
